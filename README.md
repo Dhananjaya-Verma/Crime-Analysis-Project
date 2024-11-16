@@ -38,12 +38,12 @@ Here's what you'll find in this repository:
 ```
 📂 Crime-Analysis-Project
 ├── 📊 PowerBI_Dashboard.pbix         # Power BI file with interactive dashboards
-├── 📁 R_Scripts                      # R scripts used for data analysis and modeling
-│   ├── data_cleaning.R               # Data preprocessing and cleaning
-│   ├── exploratory_analysis.R        # Initial data exploration
+├── 📁 R_Shiny                        # R scripts used for data analysis and modeling
+│   ├── web_app.R                     # it contains shiny web app
 │   ├── predictive_modeling.R         # Machine learning models
-├── 📁 Data                           # Sample datasets used for the project
-├── 📁 Images                         # Images for dashboards, charts, and README
+│   ├── 3D_model.R                    # it shows 3d models
+├── 📁 Data                           # Sample dataset used for this project
+├── 📁 Images                         # Images for dashboards, plots, and README
 ├── README.md                         # Documentation (this file)
 ```
 
@@ -124,7 +124,7 @@ Access our interactive Power BI report here: **[Crime Analysis Dashboard](#)**
 
 👤 **Dhananjaya Verma**  
 - *Role*: Data Analysis, Predictive Modeling, Documentation  
-- [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourusername)
+- [GitHub](https://github.com/Dhananjaya-Verma) | [LinkedIn](https://www.linkedin.com/in/dhananjaya-verma-661611224/)
 
 👤 **Deepesh Mittal**  
 - *Role*: Data Visualization, Dashboard Design  
