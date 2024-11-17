@@ -1,3 +1,5 @@
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9_download_developer_github_gif___Google_Search](https://github.com/user-attachments/assets/2ce21af5-9916-4cd9-8496-c90199dd835e)
+
 # 📊 Crime Analysis Project using R and Power BI
 
 Welcome to our **Crime Analysis Project**! 🌟 This repository contains an interactive project that analyzes crimes against women, using **R** for statistical analysis and **Power BI** for data visualization. 
