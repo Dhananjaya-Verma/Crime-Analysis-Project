@@ -20,7 +20,6 @@ We aim to provide insights into crime patterns, identify trends, and showcase th
 ## 📷 Project Overview
 
 ![Crime Analysis Banner](https://via.placeholder.com/900x300?text=Crime+Analysis+Dashboard)  
-*Example Power BI Dashboard (add your screenshot here)*
 
 ---
 
@@ -81,17 +80,17 @@ Here's what you'll find in this repository:
 ## 🖥️ Screenshots & Visuals
 
 ### 📊 Power BI Dashboard
-![Power BI Example](https://via.placeholder.com/600x400?text=Power+BI+Dashboard)  
+![WhatsApp Image 2024-11-21 at 8 08 48 AM](https://github.com/user-attachments/assets/8378625b-2621-4064-b021-40bf5140d399)
 *Interactive dashboard for analyzing crimes by state, type, and time.*
 
 ---
 
 ### 📈 R Analysis
-**Scatter Plot (R):**  
-![Scatter Plot](https://via.placeholder.com/600x400?text=R+Scatter+Plot)  
+**3D Line Plot:**  
+![Screenshot 2024-11-21 183356](https://github.com/user-attachments/assets/4fb48b26-0141-45b3-b770-da8f554636da)
 
 **Model Accuracy:**  
-Our predictive model achieved a high accuracy rate, with an **R² of 0.85** and an **RMSE of 12.4**.
+Our predictive model achieved a high accuracy rate, with an **R² of 0.9912** and an **RMSE of 69.22**.
 
 ---
 
