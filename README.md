@@ -129,7 +129,7 @@ Access our interactive Power BI report here: **[Crime Analysis Dashboard](#)**
 
 👤 **Deepesh Mittal**  
 - *Role*: Data Visualization, Dashboard Design  
-- [GitHub](https://github.com/friendsusername) | [LinkedIn](https://linkedin.com/in/friendsusername)
+- [GitHub](https://github.com/Deepesh9352) | [LinkedIn](http://www.linkedin.com/in/deepesh-mittal-704a99255)
 
 ---
 
