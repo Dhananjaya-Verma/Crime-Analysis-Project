@@ -38,13 +38,12 @@ Here's what you'll find in this repository:
 
 ```
 📂 Crime-Analysis-Project
-├── 📊 PowerBI_Dashboard.pbix         # Power BI file with interactive dashboards
 ├── 📁 R_Shiny                        # R scripts used for data analysis and modeling
-│   ├── web_app.R                     # it contains shiny web app
-│   ├── predictive_modeling.R         # Machine learning models
-│   ├── 3D_model.R                    # it shows 3d models
-├── 📁 Data                           # Sample dataset used for this project
-├── 📁 Images                         # Images for dashboards, plots, and README
+│   ├── web_app                       # it contains shiny web app
+│   ├── predictive_modeling           # Machine learning models
+│   ├── 3D_model                      # it shows 3d models
+├── 📊 PowerBI_Dashboard.pbix         # Power BI file with interactive dashboards
+├── r_programming.csv                 # Sample dataset used for this project
 ├── README.md                         # Documentation (this file)
 ```
 
@@ -86,7 +85,7 @@ Here's what you'll find in this repository:
 ---
 
 ### 📈 R Analysis
-**3D Line Plot:**  
+**Predictive Modeling:**  
 ![Screenshot 2024-11-21 183356](https://github.com/user-attachments/assets/4fb48b26-0141-45b3-b770-da8f554636da)
 
 **Model Accuracy:**  
