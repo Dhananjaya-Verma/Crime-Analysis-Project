@@ -19,7 +19,8 @@ We aim to provide insights into crime patterns, identify trends, and showcase th
 
 ## 📷 Project Overview
 
-![Crime Analysis Banner](https://via.placeholder.com/900x300?text=Crime+Analysis+Dashboard)  
+Main Dashboard
+![Screenshot 2025-01-12 171314](https://github.com/user-attachments/assets/0838d4d6-1522-4b27-88aa-49d9aae22524)
 
 ---
 
