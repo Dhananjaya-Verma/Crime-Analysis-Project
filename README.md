@@ -40,11 +40,11 @@ Here's what you'll find in this repository:
 ```
 📂 Crime-Analysis-Project
 ├── 📁 R_Shiny                        # R scripts used for data analysis and modeling
-│   ├── R_Shiny_Web_App               # it contains main Web App code
-│   ├── predictive_modeling           # Machine learning models
 │   ├── 3D_model                      # it shows 3d models
 │   ├── 3D_model_Code                 # it contains 3d model code
 │   ├── Predictive_Modeling_Code      # it contains predictive modelling code
+│   ├── R_Shiny_Web_App               # it contains main Web App code
+│   ├── predictive_modeling           # Machine learning models
 ├── 📊 PowerBI_Dashboard.pbix         # Power BI file with interactive dashboards
 ├── r_programming.csv                 # Sample dataset used for this project
 ├── README.md                         # Documentation (this file)
